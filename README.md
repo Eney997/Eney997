@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tornike Dzidziguri</h1>
-<img align="center" alt="coding" width="900" height="500" src="https://raw.githubusercontent.com/yogesh174/yogesh174/master/img.gif"/>
+<img align="center" alt="coding" width="900" height="500" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif"/>
 <h3 align="center">A junior full stack developer from Georgia</h3>
 
 
