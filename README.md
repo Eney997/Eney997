@@ -3,14 +3,11 @@
 <h3 align="center">A passionate junior full stack developer from Georgia</h3>
 <center><img alt="coding" width="900" height="500" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif"/></center>center>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eney997&label=Profile%20views&color=0e75b6&style=flat" alt="eney997" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eney997" alt="eney997" /></a> </p>
 
 - 🌱 I’m currently learning **javascript,react**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Eney997](https://github.com/Eney997)
 
 - 💬 Ask me about **Html,css**
 
