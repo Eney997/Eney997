@@ -2,10 +2,6 @@
 <img align="center" alt="coding" width="900" height="500" src="https://wallpaperaccess.com/full/8351156.gif"/>
 <h3 align="center">A junior full stack developer from Georgia</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eney997&label=Profile%20views&color=0e75b6&style=flat" alt="eney997" /> </p>
-
-
 - 🌱 I’m currently learning **javascript,react**
 
 - 💬 Ask me about **Html,css**
