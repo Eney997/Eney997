@@ -9,7 +9,6 @@
 - 📫 How to reach me **tornikedzidziguri2001@gmail.com**
 
 - ⚡ Fun fact **I love writing codes and dancing with them**
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
