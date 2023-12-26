@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Javascript,React**
 
-- 💬 Ask me about **HTML,CSS,Javascript**
-
 - 📫 How to reach me **tornikedzidziguri2001@gmail.com**
 
 - ⚡ Fun fact **I love writing codes and dancing with them**
