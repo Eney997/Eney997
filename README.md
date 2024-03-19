@@ -2,7 +2,7 @@
 <img align="center" alt="coding" width="900" height="500" src="https://camo.githubusercontent.com/a5ef8f892a2bc5fdbaa7f3787c40042729a15948cf94c70c3c0fa38a82d71b37/68747470733a2f2f77616c6c70617065726163636573732e636f6d2f66756c6c2f383335313135362e676966"/>
 <h3 align="center">A junior full stack developer from Georgia</h3>
 
-- 🌱 I’m currently learning **Algorithms,Assembly,C and C++**
+- 🌱 I’m currently learning **Assembly,C and C++**
 
 - 📫 How to reach me **tornikedzidziguri2001@gmail.com**
 
