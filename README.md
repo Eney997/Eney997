@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tornike Dzidziguri</h1>
 
+<img align="center" alt="coding" width="900" height="500" src="https://i.imgur.com/ecflTN9.gif"/>
+
 <h3 align="center">Software Engineer</h3>
 
 - 🌱 I’m currently learning **Assembly,C and C++**
