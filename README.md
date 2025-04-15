@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tornike Dzidziguri</h1>
-<img align="center" alt="coding" width="900" height="500" src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif"/>
-<h3 align="center">Software Coder</h3>
+
+<h3 align="center">Software Engineer</h3>
 
 - 🌱 I’m currently learning **Assembly,C and C++**
 
